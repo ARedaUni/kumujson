@@ -47,6 +47,406 @@
       "tags": [
         "person-Amy Brown"
       ]
+    },
+    {
+      "label": "Tyler Booth",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Tyler Booth"
+      ]
+    },
+    {
+      "label": "Veronica Riley",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Veronica Riley"
+      ]
+    },
+    {
+      "label": "Donna Rocha",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Donna Rocha"
+      ]
+    },
+    {
+      "label": "Megan Lee",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Megan Lee"
+      ]
+    },
+    {
+      "label": "Steven Smith",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Steven Smith"
+      ]
+    },
+    {
+      "label": "Alibaba",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Alibaba"
+      ]
+    },
+    {
+      "label": "University of Bath",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Bath"
+      ]
+    },
+    {
+      "label": "University of Dundee",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Dundee"
+      ]
+    },
+    {
+      "label": "Accelerationism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Accelerationism"
+      ]
+    },
+    {
+      "label": "Jessica Guerra",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jessica Guerra"
+      ]
+    },
+    {
+      "label": "Aaron Rodriguez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Aaron Rodriguez"
+      ]
+    },
+    {
+      "label": "Michael Schwartz",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Michael Schwartz"
+      ]
+    },
+    {
+      "label": "James Lewis",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-James Lewis"
+      ]
+    },
+    {
+      "label": "Databricks",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Databricks"
+      ]
+    },
+    {
+      "label": "University of Reading",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Reading"
+      ]
+    },
+    {
+      "label": "Natural Environment Research Council",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Natural Environment Research Council"
+      ]
+    },
+    {
+      "label": "Altruism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Altruism"
+      ]
+    },
+    {
+      "label": "James Wright",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-James Wright"
+      ]
+    },
+    {
+      "label": "Cameron Sanchez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Cameron Sanchez"
+      ]
+    },
+    {
+      "label": "Joel Long",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Joel Long"
+      ]
+    },
+    {
+      "label": "Jacqueline Preston",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jacqueline Preston"
+      ]
+    },
+    {
+      "label": "Kaspersky",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Kaspersky"
+      ]
+    },
+    {
+      "label": "University of Texas at Austin",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Texas at Austin"
+      ]
+    },
+    {
+      "label": "Royal Holloway, University of London",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Royal Holloway, University of London"
+      ]
+    },
+    {
+      "label": "Rationalism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Rationalism"
+      ]
+    },
+    {
+      "label": "Robert Lee",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Robert Lee"
+      ]
+    },
+    {
+      "label": "Daniel Rodriguez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Daniel Rodriguez"
+      ]
+    },
+    {
+      "label": "Edward Chen",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Edward Chen"
+      ]
+    },
+    {
+      "label": "Richard Coffey",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Richard Coffey"
+      ]
+    },
+    {
+      "label": "Kyle Marshall",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kyle Marshall"
+      ]
+    },
+    {
+      "label": "Eric Diaz",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Eric Diaz"
+      ]
+    },
+    {
+      "label": "Tesla",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Tesla"
+      ]
+    },
+    {
+      "label": "Roslin Institute",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Roslin Institute"
+      ]
+    },
+    {
+      "label": "Progressivism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Progressivism"
+      ]
+    },
+    {
+      "label": "Alexander Roach",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Alexander Roach"
+      ]
+    },
+    {
+      "label": "Cynthia French",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Cynthia French"
+      ]
+    },
+    {
+      "label": "William Cox",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-William Cox"
+      ]
+    },
+    {
+      "label": "Courtney Jacobs",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Courtney Jacobs"
+      ]
+    },
+    {
+      "label": "Bradley Ramirez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Bradley Ramirez"
+      ]
+    },
+    {
+      "label": "MongoDB",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-MongoDB"
+      ]
+    },
+    {
+      "label": "Engineering and Physical Sciences Research Council",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Engineering and Physical Sciences Research Council"
+      ]
+    },
+    {
+      "label": "Duke University",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Duke University"
+      ]
+    },
+    {
+      "label": "Egoism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Egoism"
+      ]
+    },
+    {
+      "label": "Kristin Wheeler",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kristin Wheeler"
+      ]
+    },
+    {
+      "label": "Mary Davis",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Mary Davis"
+      ]
+    },
+    {
+      "label": "Amanda Collins",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Amanda Collins"
+      ]
+    },
+    {
+      "label": "Timothy Walker",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Timothy Walker"
+      ]
+    },
+    {
+      "label": "Amanda Espinoza",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Amanda Espinoza"
+      ]
+    },
+    {
+      "label": "Uber",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Uber"
+      ]
+    },
+    {
+      "label": "British Academy",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-British Academy"
+      ]
     }
   ],
   "connections": [
@@ -99,6 +499,456 @@
       "from": "Amy Brown",
       "to": "Shelia Wagner",
       "type": "KNOWS"
+    },
+    {
+      "from": "Shelia Wagner",
+      "to": "Tyler Booth",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Tyler Booth",
+      "to": "Shelia Wagner",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shelia Wagner",
+      "to": "Veronica Riley",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Veronica Riley",
+      "to": "Shelia Wagner",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shelia Wagner",
+      "to": "Donna Rocha",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Donna Rocha",
+      "to": "Shelia Wagner",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shelia Wagner",
+      "to": "Megan Lee",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Megan Lee",
+      "to": "Shelia Wagner",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "Alibaba",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Alibaba",
+      "to": "Steven Smith",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "University of Bath",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Bath",
+      "to": "Steven Smith",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "University of Dundee",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Dundee",
+      "to": "Steven Smith",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "Accelerationism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Accelerationism",
+      "to": "Steven Smith",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "Jessica Guerra",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jessica Guerra",
+      "to": "Steven Smith",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "Aaron Rodriguez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Aaron Rodriguez",
+      "to": "Steven Smith",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Steven Smith",
+      "to": "Michael Schwartz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Michael Schwartz",
+      "to": "Steven Smith",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Lewis",
+      "to": "Databricks",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Databricks",
+      "to": "James Lewis",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "James Lewis",
+      "to": "University of Reading",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Reading",
+      "to": "James Lewis",
+      "type": "MEMBER"
+    },
+    {
+      "from": "James Lewis",
+      "to": "Natural Environment Research Council",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Natural Environment Research Council",
+      "to": "James Lewis",
+      "type": "MEMBER"
+    },
+    {
+      "from": "James Lewis",
+      "to": "Altruism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Altruism",
+      "to": "James Lewis",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "James Lewis",
+      "to": "James Wright",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Wright",
+      "to": "James Lewis",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Lewis",
+      "to": "Cameron Sanchez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Cameron Sanchez",
+      "to": "James Lewis",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Lewis",
+      "to": "Joel Long",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Joel Long",
+      "to": "James Lewis",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Kaspersky",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Kaspersky",
+      "to": "Jacqueline Preston",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "University of Texas at Austin",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Texas at Austin",
+      "to": "Jacqueline Preston",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Royal Holloway, University of London",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Royal Holloway, University of London",
+      "to": "Jacqueline Preston",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Rationalism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Rationalism",
+      "to": "Jacqueline Preston",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Robert Lee",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Robert Lee",
+      "to": "Jacqueline Preston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Daniel Rodriguez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Daniel Rodriguez",
+      "to": "Jacqueline Preston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Edward Chen",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Edward Chen",
+      "to": "Jacqueline Preston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Richard Coffey",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Richard Coffey",
+      "to": "Jacqueline Preston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jacqueline Preston",
+      "to": "Kyle Marshall",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kyle Marshall",
+      "to": "Jacqueline Preston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Tesla",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Tesla",
+      "to": "Eric Diaz",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Roslin Institute",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Roslin Institute",
+      "to": "Eric Diaz",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "University of Texas at Austin",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Texas at Austin",
+      "to": "Eric Diaz",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Progressivism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Progressivism",
+      "to": "Eric Diaz",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Alexander Roach",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Alexander Roach",
+      "to": "Eric Diaz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Cynthia French",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Cynthia French",
+      "to": "Eric Diaz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "William Cox",
+      "type": "KNOWS"
+    },
+    {
+      "from": "William Cox",
+      "to": "Eric Diaz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Eric Diaz",
+      "to": "Courtney Jacobs",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Courtney Jacobs",
+      "to": "Eric Diaz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "MongoDB",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "MongoDB",
+      "to": "Bradley Ramirez",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Engineering and Physical Sciences Research Council",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Engineering and Physical Sciences Research Council",
+      "to": "Bradley Ramirez",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Duke University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Duke University",
+      "to": "Bradley Ramirez",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Egoism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Egoism",
+      "to": "Bradley Ramirez",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Kristin Wheeler",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kristin Wheeler",
+      "to": "Bradley Ramirez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Mary Davis",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Mary Davis",
+      "to": "Bradley Ramirez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Amanda Collins",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Collins",
+      "to": "Bradley Ramirez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Bradley Ramirez",
+      "to": "Timothy Walker",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Timothy Walker",
+      "to": "Bradley Ramirez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Uber",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Uber",
+      "to": "Amanda Espinoza",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "British Academy",
+      "type": "MEMBER"
+    },
+    {
+      "from": "British Academy",
+      "to": "Amanda Espinoza",
+      "type": "MEMBER"
     }
   ]
 }
