@@ -447,6 +447,790 @@
       "tags": [
         "institution-British Academy"
       ]
+    },
+    {
+      "label": "University of Oxford",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Oxford"
+      ]
+    },
+    {
+      "label": "Nihilism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Nihilism"
+      ]
+    },
+    {
+      "label": "Nicholas Kelley",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nicholas Kelley"
+      ]
+    },
+    {
+      "label": "Joshua Hanson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Joshua Hanson"
+      ]
+    },
+    {
+      "label": "Nathaniel Davis",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nathaniel Davis"
+      ]
+    },
+    {
+      "label": "Andrew Sullivan",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Andrew Sullivan"
+      ]
+    },
+    {
+      "label": "Rachel Bowen",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Rachel Bowen"
+      ]
+    },
+    {
+      "label": "Emily Williams",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Emily Williams"
+      ]
+    },
+    {
+      "label": "Oppo",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Oppo"
+      ]
+    },
+    {
+      "label": "John Sanchez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-John Sanchez"
+      ]
+    },
+    {
+      "label": "Emily Schultz",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Emily Schultz"
+      ]
+    },
+    {
+      "label": "Nicole Miller",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nicole Miller"
+      ]
+    },
+    {
+      "label": "Michelle Koch",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Michelle Koch"
+      ]
+    },
+    {
+      "label": "Sandra Warren",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Sandra Warren"
+      ]
+    },
+    {
+      "label": "Amanda Hernandez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Amanda Hernandez"
+      ]
+    },
+    {
+      "label": "Twitter",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Twitter"
+      ]
+    },
+    {
+      "label": "Earlham Institute",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Earlham Institute"
+      ]
+    },
+    {
+      "label": "Anarcho-primitivism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Anarcho-primitivism"
+      ]
+    },
+    {
+      "label": "Karen Miller",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Karen Miller"
+      ]
+    },
+    {
+      "label": "Marcus Conway",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Marcus Conway"
+      ]
+    },
+    {
+      "label": "John Johnston",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-John Johnston"
+      ]
+    },
+    {
+      "label": "Jonathan Knight",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jonathan Knight"
+      ]
+    },
+    {
+      "label": "Cloudera",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Cloudera"
+      ]
+    },
+    {
+      "label": "Diamond Light Source",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Diamond Light Source"
+      ]
+    },
+    {
+      "label": "Science and Technology Facilities Council",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Science and Technology Facilities Council"
+      ]
+    },
+    {
+      "label": "Fascism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Fascism"
+      ]
+    },
+    {
+      "label": "Mitchell Robinson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Mitchell Robinson"
+      ]
+    },
+    {
+      "label": "Christine Cook",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Christine Cook"
+      ]
+    },
+    {
+      "label": "James Bradford",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-James Bradford"
+      ]
+    },
+    {
+      "label": "University of East Anglia",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of East Anglia"
+      ]
+    },
+    {
+      "label": "National Oceanography Centre",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-National Oceanography Centre"
+      ]
+    },
+    {
+      "label": "Antinatalism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Antinatalism"
+      ]
+    },
+    {
+      "label": "Tracy Hawkins",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Tracy Hawkins"
+      ]
+    },
+    {
+      "label": "Kimberly Thomas",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kimberly Thomas"
+      ]
+    },
+    {
+      "label": "Darrell White",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Darrell White"
+      ]
+    },
+    {
+      "label": "Datadog",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Datadog"
+      ]
+    },
+    {
+      "label": "CERN",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-CERN"
+      ]
+    },
+    {
+      "label": "Religious fundamentalism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Religious fundamentalism"
+      ]
+    },
+    {
+      "label": "Melissa Graham",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Melissa Graham"
+      ]
+    },
+    {
+      "label": "Michael Thompson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Michael Thompson"
+      ]
+    },
+    {
+      "label": "Matthew Cisneros",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Matthew Cisneros"
+      ]
+    },
+    {
+      "label": "Jonathan Brady",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jonathan Brady"
+      ]
+    },
+    {
+      "label": "Nancy Faulkner",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nancy Faulkner"
+      ]
+    },
+    {
+      "label": "Shannon Meyer",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Shannon Meyer"
+      ]
+    },
+    {
+      "label": "Ansible",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Ansible"
+      ]
+    },
+    {
+      "label": "National Institute of Agricultural Botany",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-National Institute of Agricultural Botany"
+      ]
+    },
+    {
+      "label": "John Innes Centre",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-John Innes Centre"
+      ]
+    },
+    {
+      "label": "Social Democracy",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Social Democracy"
+      ]
+    },
+    {
+      "label": "Michael Mckinney",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Michael Mckinney"
+      ]
+    },
+    {
+      "label": "Nicole Baxter",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nicole Baxter"
+      ]
+    },
+    {
+      "label": "Jennifer Wright",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jennifer Wright"
+      ]
+    },
+    {
+      "label": "Michael Dodson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Michael Dodson"
+      ]
+    },
+    {
+      "label": "Wanda Delgado",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Wanda Delgado"
+      ]
+    },
+    {
+      "label": "Bitdefender",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Bitdefender"
+      ]
+    },
+    {
+      "label": "University of Warwick",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Warwick"
+      ]
+    },
+    {
+      "label": "University of Washington",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Washington"
+      ]
+    },
+    {
+      "label": "Futurism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Futurism"
+      ]
+    },
+    {
+      "label": "Nicole Washington",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nicole Washington"
+      ]
+    },
+    {
+      "label": "Samantha Cummings",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Samantha Cummings"
+      ]
+    },
+    {
+      "label": "Charles Thompson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Charles Thompson"
+      ]
+    },
+    {
+      "label": "Robert Rice",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Robert Rice"
+      ]
+    },
+    {
+      "label": "Andrew Ball",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Andrew Ball"
+      ]
+    },
+    {
+      "label": "F5 Networks",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-F5 Networks"
+      ]
+    },
+    {
+      "label": "Heriot-Watt University",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Heriot-Watt University"
+      ]
+    },
+    {
+      "label": "Department for Science, Innovation and Technology",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Department for Science, Innovation and Technology"
+      ]
+    },
+    {
+      "label": "Authoritarianism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Authoritarianism"
+      ]
+    },
+    {
+      "label": "Jeffrey Nichols",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Jeffrey Nichols"
+      ]
+    },
+    {
+      "label": "Lance Martin",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Lance Martin"
+      ]
+    },
+    {
+      "label": "Kevin Harrington",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kevin Harrington"
+      ]
+    },
+    {
+      "label": "Alicia Carpenter",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Alicia Carpenter"
+      ]
+    },
+    {
+      "label": "Newcastle University",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Newcastle University"
+      ]
+    },
+    {
+      "label": "University of Bristol",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Bristol"
+      ]
+    },
+    {
+      "label": "Post-scarcity economics",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Post-scarcity economics"
+      ]
+    },
+    {
+      "label": "John Thornton",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-John Thornton"
+      ]
+    },
+    {
+      "label": "Kristina Evans",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kristina Evans"
+      ]
+    },
+    {
+      "label": "Martha Sullivan",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Martha Sullivan"
+      ]
+    },
+    {
+      "label": "Rebecca Jones",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Rebecca Jones"
+      ]
+    },
+    {
+      "label": "Loughborough University",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-Loughborough University"
+      ]
+    },
+    {
+      "label": "Libertarianism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Libertarianism"
+      ]
+    },
+    {
+      "label": "April Adams",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-April Adams"
+      ]
+    },
+    {
+      "label": "Cassandra Montes",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Cassandra Montes"
+      ]
+    },
+    {
+      "label": "Debra Cook",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Debra Cook"
+      ]
+    },
+    {
+      "label": "Matthew Perez",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Matthew Perez"
+      ]
+    },
+    {
+      "label": "Gregg Khan",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Gregg Khan"
+      ]
+    },
+    {
+      "label": "Sony",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Sony"
+      ]
+    },
+    {
+      "label": "British Antarctic Survey",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-British Antarctic Survey"
+      ]
+    },
+    {
+      "label": "Environmentalism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Environmentalism"
+      ]
+    },
+    {
+      "label": "Kelly Harris",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Kelly Harris"
+      ]
+    },
+    {
+      "label": "Deborah Johnson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Deborah Johnson"
+      ]
+    },
+    {
+      "label": "Renee Roach",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Renee Roach"
+      ]
+    },
+    {
+      "label": "Charles Guzman",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Charles Guzman"
+      ]
+    },
+    {
+      "label": "Allen Johnson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Allen Johnson"
+      ]
+    },
+    {
+      "label": "David Nicholson",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-David Nicholson"
+      ]
+    },
+    {
+      "label": "Shopify",
+      "type": "Company",
+      "description": "Company node",
+      "tags": [
+        "company-Shopify"
+      ]
+    },
+    {
+      "label": "University of Exeter",
+      "type": "Institution",
+      "description": "Institution node",
+      "tags": [
+        "institution-University of Exeter"
+      ]
+    },
+    {
+      "label": "Transhumanism",
+      "type": "Ideology",
+      "description": "Ideology node",
+      "tags": [
+        "ideology-Transhumanism"
+      ]
+    },
+    {
+      "label": "Nicole Bailey",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Nicole Bailey"
+      ]
+    },
+    {
+      "label": "Cheyenne James",
+      "type": "Person",
+      "description": "Person node",
+      "tags": [
+        "person-Cheyenne James"
+      ]
     }
   ],
   "connections": [
@@ -948,6 +1732,1006 @@
     {
       "from": "British Academy",
       "to": "Amanda Espinoza",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "University of Oxford",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Oxford",
+      "to": "Amanda Espinoza",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Nihilism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Nihilism",
+      "to": "Amanda Espinoza",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Nicholas Kelley",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nicholas Kelley",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Joshua Hanson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Joshua Hanson",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Nathaniel Davis",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nathaniel Davis",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Andrew Sullivan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Andrew Sullivan",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Rachel Bowen",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rachel Bowen",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Oppo",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Oppo",
+      "to": "Emily Williams",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Harvard University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Harvard University",
+      "to": "Emily Williams",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "University of Reading",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Reading",
+      "to": "Emily Williams",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Nihilism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Nihilism",
+      "to": "Emily Williams",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "John Sanchez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "John Sanchez",
+      "to": "Emily Williams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Emily Schultz",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Schultz",
+      "to": "Emily Williams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Nicole Miller",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nicole Miller",
+      "to": "Emily Williams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Michelle Koch",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Michelle Koch",
+      "to": "Emily Williams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Emily Williams",
+      "to": "Sandra Warren",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Sandra Warren",
+      "to": "Emily Williams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "Twitter",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Twitter",
+      "to": "Amanda Hernandez",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "Earlham Institute",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Earlham Institute",
+      "to": "Amanda Hernandez",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "University of Michigan",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Michigan",
+      "to": "Amanda Hernandez",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "Anarcho-primitivism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Anarcho-primitivism",
+      "to": "Amanda Hernandez",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "Karen Miller",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Karen Miller",
+      "to": "Amanda Hernandez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "Marcus Conway",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Marcus Conway",
+      "to": "Amanda Hernandez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Hernandez",
+      "to": "John Johnston",
+      "type": "KNOWS"
+    },
+    {
+      "from": "John Johnston",
+      "to": "Amanda Hernandez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Cloudera",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Cloudera",
+      "to": "Jonathan Knight",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Diamond Light Source",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Diamond Light Source",
+      "to": "Jonathan Knight",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Science and Technology Facilities Council",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Science and Technology Facilities Council",
+      "to": "Jonathan Knight",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Fascism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Fascism",
+      "to": "Jonathan Knight",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Mitchell Robinson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Mitchell Robinson",
+      "to": "Jonathan Knight",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jonathan Knight",
+      "to": "Christine Cook",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Christine Cook",
+      "to": "Jonathan Knight",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Bradford",
+      "to": "Cloudera",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Cloudera",
+      "to": "James Bradford",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "James Bradford",
+      "to": "University of East Anglia",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of East Anglia",
+      "to": "James Bradford",
+      "type": "MEMBER"
+    },
+    {
+      "from": "James Bradford",
+      "to": "National Oceanography Centre",
+      "type": "MEMBER"
+    },
+    {
+      "from": "National Oceanography Centre",
+      "to": "James Bradford",
+      "type": "MEMBER"
+    },
+    {
+      "from": "James Bradford",
+      "to": "Antinatalism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Antinatalism",
+      "to": "James Bradford",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "James Bradford",
+      "to": "Tracy Hawkins",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Tracy Hawkins",
+      "to": "James Bradford",
+      "type": "KNOWS"
+    },
+    {
+      "from": "James Bradford",
+      "to": "Kimberly Thomas",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kimberly Thomas",
+      "to": "James Bradford",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Datadog",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Datadog",
+      "to": "Darrell White",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Darrell White",
+      "to": "University of Bath",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Bath",
+      "to": "Darrell White",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Darrell White",
+      "to": "CERN",
+      "type": "MEMBER"
+    },
+    {
+      "from": "CERN",
+      "to": "Darrell White",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Religious fundamentalism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Religious fundamentalism",
+      "to": "Darrell White",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Melissa Graham",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Melissa Graham",
+      "to": "Darrell White",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Michael Thompson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Michael Thompson",
+      "to": "Darrell White",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Matthew Cisneros",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Matthew Cisneros",
+      "to": "Darrell White",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Jonathan Brady",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jonathan Brady",
+      "to": "Darrell White",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Darrell White",
+      "to": "Nancy Faulkner",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nancy Faulkner",
+      "to": "Darrell White",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Ansible",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Ansible",
+      "to": "Shannon Meyer",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "National Institute of Agricultural Botany",
+      "type": "MEMBER"
+    },
+    {
+      "from": "National Institute of Agricultural Botany",
+      "to": "Shannon Meyer",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "John Innes Centre",
+      "type": "MEMBER"
+    },
+    {
+      "from": "John Innes Centre",
+      "to": "Shannon Meyer",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Social Democracy",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Social Democracy",
+      "to": "Shannon Meyer",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Michael Mckinney",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Michael Mckinney",
+      "to": "Shannon Meyer",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Nicole Baxter",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nicole Baxter",
+      "to": "Shannon Meyer",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Jennifer Wright",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jennifer Wright",
+      "to": "Shannon Meyer",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Shannon Meyer",
+      "to": "Michael Dodson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Michael Dodson",
+      "to": "Shannon Meyer",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Bitdefender",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Bitdefender",
+      "to": "Wanda Delgado",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "University of Warwick",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Warwick",
+      "to": "Wanda Delgado",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "University of Washington",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Washington",
+      "to": "Wanda Delgado",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Futurism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Futurism",
+      "to": "Wanda Delgado",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Nicole Washington",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nicole Washington",
+      "to": "Wanda Delgado",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Samantha Cummings",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Samantha Cummings",
+      "to": "Wanda Delgado",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Charles Thompson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Charles Thompson",
+      "to": "Wanda Delgado",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Wanda Delgado",
+      "to": "Robert Rice",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Robert Rice",
+      "to": "Wanda Delgado",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "F5 Networks",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "F5 Networks",
+      "to": "Andrew Ball",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Heriot-Watt University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Heriot-Watt University",
+      "to": "Andrew Ball",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Department for Science, Innovation and Technology",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Department for Science, Innovation and Technology",
+      "to": "Andrew Ball",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Authoritarianism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Authoritarianism",
+      "to": "Andrew Ball",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Jeffrey Nichols",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Jeffrey Nichols",
+      "to": "Andrew Ball",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Lance Martin",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Lance Martin",
+      "to": "Andrew Ball",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Andrew Ball",
+      "to": "Kevin Harrington",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kevin Harrington",
+      "to": "Andrew Ball",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "Kaspersky",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Kaspersky",
+      "to": "Alicia Carpenter",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "Newcastle University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Newcastle University",
+      "to": "Alicia Carpenter",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "University of Bristol",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Bristol",
+      "to": "Alicia Carpenter",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "Post-scarcity economics",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Post-scarcity economics",
+      "to": "Alicia Carpenter",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "John Thornton",
+      "type": "KNOWS"
+    },
+    {
+      "from": "John Thornton",
+      "to": "Alicia Carpenter",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "Kristina Evans",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kristina Evans",
+      "to": "Alicia Carpenter",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Alicia Carpenter",
+      "to": "Martha Sullivan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Martha Sullivan",
+      "to": "Alicia Carpenter",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Pinterest",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Pinterest",
+      "to": "Rebecca Jones",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Heriot-Watt University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Heriot-Watt University",
+      "to": "Rebecca Jones",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Loughborough University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Loughborough University",
+      "to": "Rebecca Jones",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Libertarianism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Libertarianism",
+      "to": "Rebecca Jones",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Amanda Espinoza",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Amanda Espinoza",
+      "to": "Rebecca Jones",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "April Adams",
+      "type": "KNOWS"
+    },
+    {
+      "from": "April Adams",
+      "to": "Rebecca Jones",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Cassandra Montes",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Cassandra Montes",
+      "to": "Rebecca Jones",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Debra Cook",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Debra Cook",
+      "to": "Rebecca Jones",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Rebecca Jones",
+      "to": "Matthew Perez",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Matthew Perez",
+      "to": "Rebecca Jones",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Sony",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Sony",
+      "to": "Gregg Khan",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "British Antarctic Survey",
+      "type": "MEMBER"
+    },
+    {
+      "from": "British Antarctic Survey",
+      "to": "Gregg Khan",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "British Academy",
+      "type": "MEMBER"
+    },
+    {
+      "from": "British Academy",
+      "to": "Gregg Khan",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Environmentalism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Environmentalism",
+      "to": "Gregg Khan",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Kelly Harris",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kelly Harris",
+      "to": "Gregg Khan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Deborah Johnson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Deborah Johnson",
+      "to": "Gregg Khan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Renee Roach",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Renee Roach",
+      "to": "Gregg Khan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Charles Guzman",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Charles Guzman",
+      "to": "Gregg Khan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Gregg Khan",
+      "to": "Allen Johnson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Allen Johnson",
+      "to": "Gregg Khan",
+      "type": "KNOWS"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "Shopify",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Shopify",
+      "to": "David Nicholson",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "University of Exeter",
+      "type": "MEMBER"
+    },
+    {
+      "from": "University of Exeter",
+      "to": "David Nicholson",
+      "type": "MEMBER"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "Duke University",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Duke University",
+      "to": "David Nicholson",
+      "type": "MEMBER"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "Transhumanism",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "Transhumanism",
+      "to": "David Nicholson",
+      "type": "FOLLOWS"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "Nicole Bailey",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Nicole Bailey",
+      "to": "David Nicholson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "David Nicholson",
+      "to": "Kimberly Thomas",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Kimberly Thomas",
+      "to": "David Nicholson",
+      "type": "KNOWS"
+    },
+    {
+      "from": "Cheyenne James",
+      "to": "Tesla",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Tesla",
+      "to": "Cheyenne James",
+      "type": "WORKS_AT"
+    },
+    {
+      "from": "Cheyenne James",
+      "to": "Earlham Institute",
+      "type": "MEMBER"
+    },
+    {
+      "from": "Earlham Institute",
+      "to": "Cheyenne James",
       "type": "MEMBER"
     }
   ]
